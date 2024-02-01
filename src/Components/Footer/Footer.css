@@ -1,0 +1,15 @@
+.footer{
+    background-color: #EBEEEF;
+}
+.footer-item{
+    cursor: pointer;
+    color: #557477;
+}
+
+.footer-item:hover{
+    color: black;
+}
+.bottom-footer{
+    padding: 1.5rem 0;
+    background-color: #002F34;
+}
